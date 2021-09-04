@@ -4,7 +4,7 @@ Each file corresponds to the script ultimately used in each section of the MPhil
 
 
 <details>
-  <summary>2.1 _De novo_ genome assembly</summary>
+  <summary>2.1 <em>De novo<em> genome assembly</summary>
   
   * Pre-assembly analysis
   * Hybrid assembly of *Asymmetron*

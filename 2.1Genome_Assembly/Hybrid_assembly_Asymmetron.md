@@ -67,7 +67,7 @@
   END
   ```
   
-  ### MaSuRCA assembly
+  ### MaSuRCA assembly (v3.4.2)
   
   ### Flye assembly
 </details>
@@ -139,7 +139,7 @@
   END
   ```
   
-  ### MaSuRCA assembly
+  ### MaSuRCA assembly (v3.4.2)
   ```
   ./masurca sr_config_epi_lhe60.txt
   ```

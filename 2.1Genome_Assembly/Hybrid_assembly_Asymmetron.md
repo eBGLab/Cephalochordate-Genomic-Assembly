@@ -66,6 +66,7 @@
   FLYE_ASSEMBLY=1
   END
   ```
+  Where `/hps/nobackup/research/marioni/sodai/ASY_all2_guppy4.fastq.gz` is the full path to the long reads and `/hps/nobackup/research/marioni/sodai/ASY_R1.fastq.gz` and `/hps/nobackup/research/marioni/sodai/ASY_R2.fastq.gz` are the full paths to the short reads (forward and reverse).
   
   ### MaSuRCA assembly (v3.4.2)
   ```
@@ -155,6 +156,7 @@
   FLYE_ASSEMBLY=1
   END
   ```
+  Where `/hps/nobackup/research/marioni/sodai/EPI_all2_guppy4.fastq.gz` is the full path to the long reads and `/hps/nobackup/research/marioni/sodai/EPI_R1.fastq.gz` and `/hps/nobackup/research/marioni/sodai/EPI_R2.fastq.gz` are the full paths to the short reads (forward and reverse).
   
   ### MaSuRCA assembly (v3.4.2)
   ```

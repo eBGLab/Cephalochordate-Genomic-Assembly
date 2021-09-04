@@ -14,5 +14,5 @@ Note: Due to poor performance of the genome annotation, this assembly was not us
   -nanopore Blnc_Feb20.fastq.gz \
   corOutCoverage=200 "batOptions=-dg 3 -db 3 -dr 1 -ca 500 -cp 50"
   ```
-  Where `Blnc_Feb20.fastq.gz` is the base-called nanopore sequencing reads.
+  Where `Blnc_Feb20.fastq.gz` is the long reads.
 </details>

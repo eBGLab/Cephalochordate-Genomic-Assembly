@@ -68,8 +68,25 @@
   ```
   
   ### MaSuRCA assembly (v3.4.2)
-  
+  ```
+  ./masurca sr_config_epi_lhe60.txt
+  ```
+  Where `sr_config_epi_lhe60.txt` is the config file for *Epigonichthys* with option `LHE_COVERAGE=60`. This generates a configuration shell script `assembly.sh`, which is run to assemble the data.
+  ```
+  ./assemble.sh
+  ```
   ### Flye assembly
+  I then run Flye v2.8.2 on the MaSuRCA 'mega-reads'
+  ```
+  ./flye \
+  -t 32 \
+  ASY_masurca_LHE60_rerun/mr.41.15.10.0.02.1.fa \
+  -g 714291509  \
+  -m 2500 \
+  -o ASY_masurca_Flye_m_para \
+  -i 0
+  ```
+  Where `ASY_masurca_Flye_m_para` is the output directory and `ASY_masurca/mr.41.15.10.0.02.1.fa` is the input mega-reads from MaSuRCA.
 </details>
 
 <details>

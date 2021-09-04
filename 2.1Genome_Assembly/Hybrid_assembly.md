@@ -70,9 +70,9 @@
   
   ### MaSuRCA assembly (v3.4.2)
   ```
-  ./masurca sr_config_epi_lhe60.txt
+  ./masurca sr_config_asy_lhe60.txt
   ```
-  Where `sr_config_epi_lhe60.txt` is the config file for *Epigonichthys* with option `LHE_COVERAGE=60`. This generates a configuration shell script `assembly.sh`, which is run to assemble the data.
+  Where `sr_config_asy_lhe60.txt` is the config file for *Epigonichthys* with option `LHE_COVERAGE=60`. This generates a configuration shell script `assembly.sh`, which is run to assemble the data.
   ```
   ./assemble.sh
   ```

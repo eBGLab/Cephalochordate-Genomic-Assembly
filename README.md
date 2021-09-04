@@ -7,10 +7,10 @@ Each file corresponds to the script ultimately used in each section of the MPhil
   <summary>2.1 *De novo* genome assembly</summary>
   
   ## *De novo* genome assembly
-    Pre-assembly analysis
-    Hybrid assembly of _Asymmetron_
-    Hybrid assembly of *Epigonichthys*
-    Long-read assembly of *B. lanceolatum* (North Sea)
+    * Pre-assembly analysis
+    * Hybrid assembly of _Asymmetron_
+    * Hybrid assembly of *Epigonichthys*
+    * Long-read assembly of *B. lanceolatum* (North Sea)
 </details>
 
 <details>

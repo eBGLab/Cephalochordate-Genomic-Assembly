@@ -4,7 +4,7 @@ Each file corresponds to the script ultimately used in each section of the MPhil
 
 
 <details>
-  <summary>2.1 *De novo* genome assembly</summary>
+  <summary>2.1 _De novo_ genome assembly</summary>
   
   * Pre-assembly analysis
   * Hybrid assembly of *Asymmetron*
@@ -31,7 +31,7 @@ Each file corresponds to the script ultimately used in each section of the MPhil
 </details>
 
 <details>
-  <summary>2.4 *De novo* transcriptome assembly</summary>
+  <summary>2.4 _De novo_ transcriptome assembly</summary>
   
   * Transcriptome assembly of *B. lanceolatum* (from Banyuls-sur-Mer; RNA-seq data courtesy of Dr. Benito-Gutiérrez)
   * Transcriptome assembly of *A. lucayanum* (from Yue et al. 2014)  

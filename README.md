@@ -3,8 +3,17 @@ Code for the genome assembly, post-processing (polishing, haplotig-purging, repe
 Each file corresponds to the script ultimately used in each section of the MPhil Thesis:
 
 <details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
   <summary>2.1 *De novo* genome assembly</summary>
-  ## 2.1 *De novo* genome assembly
   * Pre-assembly analysis
   * Hybrid assembly of *Asymmetron*
   * Hybrid assembly of *Epigonichthys*

@@ -5,24 +5,24 @@
 <details>
   <summary><em>Asymmetron</em></summary>
   
-  * K-mer count histogram (Jellyfish v2.3.0)
-  Unzip
+  ## K-mer count histogram (Jellyfish v2.3.0)
+  1. Unzip
   ```
   zcat ASY_R1.fastq.gz > ASY_R1.fastq
   zcat ASY_R2.fastq.gz > ASY_R2.fastq
   ```
-  Compute the histogram of k-mer frequencies
+  2. Compute the histogram of k-mer frequencies
   ```
   ./jellyfish count -C -m 21 -s 1000M -t 10 ASY_R1.fastq -o ASY_R1.jf
   ./jellyfish count -C -m 21 -s 1000M -t 10 ASY_R2.fastq -o ASY_R2.jf
   ```
-  Export the k-mer count histogram
+  3. Export the k-mer count histogram
   ```
   ./jellyfish histo -t 10 ASY_R1.jf > ASY_R1.histo
   ./jellyfish histo -t 10 ASY_R2.jf > ASY_R2.histo
   ```
   Where `ASY_R1.fastq.gz` and `ASY_R2.fastq.gz` are forward (R1) and reverse (R2) reads, respectively.
-  * K-mer spectra analysis (Genomescope v2.0)
+  ## K-mer spectra analysis (Genomescope v2.0)
   I moved the kmer count histogram to my local device and uploaded the histogram to http://qb.cshl.edu/genomescope/genomescope2.0/
 </details>
 

@@ -1,6 +1,6 @@
 # Pre-assembly analysis
 
-### Short reads
+## Short reads (*Asymmetron* & *Epigonichthys*)
 
 <details>
   <summary><em>Asymmetron</em></summary>
@@ -50,7 +50,7 @@
   I moved the kmer count histogram to my local device and uploaded the histogram to http://qb.cshl.edu/genomescope/genomescope2.0/
 </details>
 
-### Long reads
+## Long reads (*Asymmetron*, *Epigonichthys* & *B. lanceolatum* (North Sea))
 
 <details>
   <summary><em>Asymmetron</em></summary>

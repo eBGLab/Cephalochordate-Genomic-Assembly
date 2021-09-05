@@ -2,6 +2,20 @@
 
 ## Polishing with short reads
 <details>
+  <summary><em>Asymmetron</em> POLCA</summary>
+  
+  ### POLCA (from MaSuRCA v3.4.2 toolkit)
+  ```
+  ./polca.sh \
+  -a /hps/nobackup/research/marioni/sodai/ASY_masurca_Flye_m_para_LHE60_rerun/assembly.fasta \
+  -r '../../ASY_R1.fastq.gz ../../ASY_R2.fastq.gz' \
+  -t 16 \
+  -m 1G
+  ```
+  Where `ASY_R1.fastq.gz` and `ASY_R2.fastq.gz` are the forward (R1) and reverse (R2) short reads. `/hps/nobackup/research/marioni/sodai/ASY_masurca_Flye_m_para_LHE60_rerun/assembly.fasta` is the full path to the assembly.
+</details>
+
+<details>
   <summary><em>Epigonichthys</em> POLCA</summary>
   
   ### POLCA (from MaSuRCA v3.4.2 toolkit)
@@ -13,20 +27,6 @@
   -m 1G
   ```
   Where `EPI_R1.fastq.gz` and `EPI_R2.fastq.gz` are the forward (R1) and reverse (R2) short reads. `/hps/nobackup/research/marioni/sodai/EPI_masurca_LHE60_rerun/flye/assembly.fasta` is the full path to the assembly.
-</details>
-
-<details>
-  <summary><em>Epigonichthys</em> POLCA</summary>
-  
-  ### POLCA (from MaSuRCA v3.4.2 toolkit)
-  ```
-  ./polca.sh \
-  -a /hps/nobackup/research/marioni/sodai/ASY_masurca_Flye_m_para_LHE60_rerun/assembly.fasta \
-  -r '../../ASY_R1.fastq.gz ../../ASY_R2.fastq.gz' \
-  -t 16 \
-  -m 1G
-  ```
-  Where `ASY_R1.fastq.gz` and `ASY_R2.fastq.gz` are the forward (R1) and reverse (R2) short reads. `/hps/nobackup/research/marioni/sodai/ASY_masurca_Flye_m_para_LHE60_rerun/assembly.fasta` is the full path to the assembly.
 </details>
 
 ## Polishing with long reads

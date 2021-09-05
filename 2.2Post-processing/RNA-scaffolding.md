@@ -62,7 +62,7 @@
   -o scaffold
   ```
   Where `input.sam` is the mapping file from the hard-masked genome, `ASY_3_RM.fa` is the soft-masked assembly, and `ASY_RNA_R1_trimmed.fq.gz` and `ASY_RNA_R2_trimmed.fq.gz` are the forward (R1) and reverse (R2) trimmed RNA-seq reads.
-  The `P_RNA_scaffolder_edit.sh` has been edited.
+  The `P_RNA_scaffolder_edit.sh` has been edited, i.e. `-masked=soft` was added for BLAT pairwise aligner.
   
 
 </details>
@@ -132,7 +132,7 @@
   -o scaffold
   ```
   Where `input.sam` is the mapping file from the hard-masked genome, `EPI_2_RM.fa` is the soft-masked assembly, and `EPI_RNA_R1_trimmed.fq.gz` and `EPI_RNA_R2_trimmed.fq.gz` are the forward (R1) and reverse (R2) trimmed RNA-seq reads.
-  The `P_RNA_scaffolder_edit.sh` has been edited.
+  The `P_RNA_scaffolder_edit.sh` has been edited, i.e. `-masked=soft` was added for BLAT pairwise aligner.
 
 </details>  
   
@@ -199,7 +199,7 @@
   -o scaffold
   ```
   Where `input.sam` is the mapping file from the hard-masked genome, `Blnc_2_RM.fa` is the soft-masked assembly, and `Blnc_RNA_R1_trimmed.fq.gz` and `Blnc_RNA_R2_trimmed.fq.gz` are the forward (R1) and reverse (R2) trimmed RNA-seq reads.
-  The `P_RNA_scaffolder_edit.sh` has been edited.
+  The `P_RNA_scaffolder_edit.sh` has been edited, i.e. `-masked=soft` was added for BLAT pairwise aligner.
   
 
 </details>

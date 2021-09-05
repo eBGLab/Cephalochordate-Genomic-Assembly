@@ -7,16 +7,14 @@ Each file corresponds to the script ultimately used in each section of the MPhil
   <summary>2.1 <em>De novo</em> genome assembly</summary>
   
   * Pre-assembly analysis
-  * Hybrid assembly of *Asymmetron*
-  * Hybrid assembly of *Epigonichthys*
+  * Hybrid assembly of *Asymmetron* & *Epigonichthys*
   * Long-read assembly of *B. lanceolatum* (North Sea)
 </details>
 
 <details>
   <summary>2.2 Post-processing</summary>
   
-  * Short-read polishing of *Asymmetron* & *Epigonichthys*
-  * Long-read polishing of *B. lanceolatum* (North Sea)
+  * Short-read polishing of *Asymmetron* & *Epigonichthys* and long-read polishing of *B. lanceolatum* (North Sea)
   * Haplotig-purging of *Asymmetron*, *Epigonichthys* & *B. lanceolatum* (North Sea)
   * Repeat-masking of *Asymmetron*, *Epigonichthys* & *B. lanceolatum* (North Sea)
   * RNA-scaffolding of *Asymmetron*, *Epigonichthys* & *B. lanceolatum* (North Sea)

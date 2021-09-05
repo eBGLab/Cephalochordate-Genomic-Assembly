@@ -32,7 +32,7 @@
 ## Polishing with long reads
 
 <details>
-  <summary>Polishing with long reads</summary>
+  <summary><em>B. lanceolatum</em> (North Sea) Racon</summary>
   
   ### Mapping long reads onto the assembly using Minimap2
   ```

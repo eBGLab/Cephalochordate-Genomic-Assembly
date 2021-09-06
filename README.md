@@ -30,8 +30,7 @@ Each file corresponds to the script ultimately used in each section of the MPhil
 <details>
   <summary>2.4 <em>De novo</em> transcriptome assembly</summary>
   
-  * Transcriptome assembly of *B. lanceolatum* (from Banyuls-sur-Mer; RNA-seq data courtesy of Dr. Benito-Gutiérrez)
-  * Transcriptome assembly of *A. lucayanum* (from Yue et al. 2014)  
+  * Transcriptome assembly of *B. lanceolatum* (from Banyuls-sur-Mer; RNA-seq data courtesy of Dr. Benito-Gutiérrez) and *A. lucayanum* (from Yue et al. 2014)  
 </details>
 
 <details>

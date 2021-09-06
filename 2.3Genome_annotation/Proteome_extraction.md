@@ -40,7 +40,7 @@
   ```
   getAnnoFasta.pl ../braker/braker.gtf --seqfile ../../Blnc2018.fa
   ```
-  Where `ASY_3_scaf.fa` is the scaffolded genome and `braker.gtf` is the BRAKER annotation file.
+  Where `Blnc2018.fa` is the published draft genome and `braker.gtf` is the BRAKER annotation file.
   
   ### Use `transeq` from [EMBOSS](https://www.ebi.ac.uk/Tools/emboss/) to translate CDS
   ```

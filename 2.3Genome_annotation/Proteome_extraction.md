@@ -35,6 +35,7 @@
 
 <details>
   <summary>Re-annotated <em>B. lanceolatum</em> from <a href="https://www.nature.com/articles/s41586-018-0734-6">Marlétaz et al. (2018)</a></summary>
+  
   ### Get CDS using `getAnnoFasta.pl` (BRAKER v2.1.6)
   ```
   getAnnoFasta.pl ../braker/braker.gtf --seqfile ../../Blnc2018.fa

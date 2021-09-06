@@ -23,8 +23,7 @@ Each file corresponds to the script ultimately used in each section of the MPhil
 <details>
   <summary>2.3 Genome annotation</summary>
   
-  * BRAKER annotation of *Asymmetron*, *Epigonichthys* & *Branchiostoma*
-  * BRAKER re-annotation of *B. lanceolatum* (from Marlétaz et al. 2018)
+  * BRAKER annotation of *Asymmetron*, *Epigonichthys* & *Branchiostoma* and BRAKER re-annotation of *B. lanceolatum* (from Marlétaz et al. 2018)
   * Proteome extraction
 </details>
 

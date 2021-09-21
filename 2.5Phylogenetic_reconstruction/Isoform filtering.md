@@ -10,14 +10,14 @@ The following steps depend on the source of proteome data.
   'Sanitise' proteins using `filter_fastas_before_clustering.py` (KinFin v1.0)
   E.g.
   ```
-  filter_fastas_before_clustering.py \
+  ./filter_fastas_before_clustering.py \
   -f saccoglossus.saccoglossus_kowalevskii.faa > saccoglossus.saccoglossus_kowalevskii.filtered.faa
   ```
   
-  Filter isoforms using `.gff` file
+  Filter isoforms using `filter_isoforms_based_on_gff3.py.gff`
   
   ```
-  ../../kinfin/scripts/filter_isoforms_based_on_gff3.py \
+  ./filter_isoforms_based_on_gff3.py \
   -f saccoglossus.saccoglossus_kowalevskii.filtered.faa \
   -g gffs/saccoglossus.saccoglossus_kowalevskii.gff \
   -t NCBI

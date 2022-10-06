@@ -119,7 +119,7 @@ Here, I used the polished assembly.
 <details>
   <summary><em>B. lanceolatum</em> (North Sea) purge_dups</summary>
   
-  ### Mapping short reads using Minimap2
+  ### Mapping long reads using Minimap2
   1. Map long reads
   ```
   minimap2 -x map-ont -t 12 asm.fasta /hps/nobackup/research/marioni/sodai/Blnc_canu_poly1/Blnc_canu_poly1.trimmedReads.fasta.gz | gzip -c - > asm.paf.gz
